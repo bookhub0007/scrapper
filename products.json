@@ -1,807 +1,478 @@
 [
-  {},
-  {},
   {
-    "name": "A History of Ancient and Early Medieval India |for UPSC | Civil Services Exam | State Administrative exams | Stone Age to the 12th Century| by Upinder Singh, 2nd Edition",
-    "price": "₹841",
-    "imageUrl": "https://m.media-amazon.com/images/I/81CY2Y5Ua7L._AC_UY218_.jpg"
+    "data_uuid": "c40f529d-2840-4b30-8a0c-61950ff27700",
+    "authorLink": null
   },
   {
-    "name": "Oswaal NCERT One for All Book For UPSC and State PSCs History, Geography, General Science, Indian Polity and Indian Economy (Set of 5 Books) (Old and New NCERT Edition) (For 2024 Exam)",
-    "price": "₹2,287",
-    "imageUrl": "https://m.media-amazon.com/images/I/81-vqp6410L._AC_UY218_.jpg"
+    "data_uuid": null,
+    "authorLink": null
+  },
+  {
+    "name": "Combo (set of 3 Books) 12 Year-wise UPSC Civil Services IAS Mains General Studies (Papers 1 - 4) + Essay + Compulsory English Previous Year Solved Papers (2013 - 2024) 6th Edition",
+    "discountedPrice": "₹776",
+    "price": "₹1,035",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qLko50ntL._AC_UY218_.jpg",
+    "data_uuid": "9cf2a8b0-b82e-4d86-af0a-bc163399d339",
+    "authorLink": null
+  },
+  {
+    "name": "Combo (set of 5 Books) IAS Aniruddh Yadav Hand-written Notes for UPSC & State PSC Civil Services Prelims & Mains General Studies Papers 1 - 4 & Anthropology Optional Papers 1 & 2",
+    "discountedPrice": "₹1,690",
+    "price": "₹338",
+    "imageUrl": "https://m.media-amazon.com/images/I/81LFgqr4hLL._AC_UY218_.jpg",
+    "data_uuid": "6e24b3e6-9e4e-46ec-95f0-acfc5eaf15c9",
+    "authorLink": {}
   },
   {
     "name": "Indian Art and Culture for UPSC (English) by Nitin Singhania | 5th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹654",
-    "imageUrl": "https://m.media-amazon.com/images/I/81PN3gjTRhL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Summary (Class 6 to 12) One Liner for UPSC/IAS Preparation, (Indian History, Art & Culture, World & Indian Geography, Environment, Ecology, Indian Polity & Economy Indian Constitution) 2024-2025 Updated Edition",
-    "price": "₹258",
-    "imageUrl": "https://m.media-amazon.com/images/I/71zBzQ7mWEL._AC_UY218_.jpg"
-  },
-  {
-    "name": "International Relations for UPSC (English) | 1st Edition (Latest) | IR UPSC Competitive Exam | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹294",
-    "imageUrl": "https://m.media-amazon.com/images/I/81HHHWKKzOL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Indian Polity for UPSC (English) by M Laxmikanth | 7th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹809",
-    "imageUrl": "https://m.media-amazon.com/images/I/71CrTyKsazL._AC_UL640_QL65_.jpg"
-  },
-  {},
-  {
-    "name": "29 Previous Years UPSC Civil Services IAS Prelims Topic-wise Solved Papers 1 & 2 (1995 - 2023) 14th Edition | General Studies & Aptitude (CSAT) PYQs Question Bank |",
-    "price": "₹488",
-    "imageUrl": "https://m.media-amazon.com/images/I/71pjWcEt7+L._AC_UY218_.jpg"
-  },
-  {
-    "name": "Oswaal NCERT One for All Book For UPSC and State PSCs History, Geography, General Science, Indian Polity and Indian Economy (Set of 5 Books) (Old and New NCERT Edition) (For 2024 Exam)",
-    "price": "₹2,287",
-    "imageUrl": "https://m.media-amazon.com/images/I/81-vqp6410L._AC_UY218_.jpg"
+    "discountedPrice": "₹654",
+    "price": "₹925",
+    "imageUrl": "https://m.media-amazon.com/images/I/81PN3gjTRhL._AC_UY218_.jpg",
+    "data_uuid": "f4bdebdc-a94b-4fc0-b3fb-e1000e89ce1e",
+    "authorLink": {}
   },
   {
     "name": "30 Topic-wise UPSC Civil Services IAS Prelims Previous Year Solved Papers 1 & 2 (1995 - 2024) 15th Edition | General Studies & Aptitude (CSAT) PYQs Question Bank",
-    "price": "₹566",
-    "imageUrl": "https://m.media-amazon.com/images/I/81P-qQVapBL._AC_UY218_.jpg"
+    "discountedPrice": "₹566",
+    "price": "₹850",
+    "imageUrl": "https://m.media-amazon.com/images/I/81P-qQVapBL._AC_UY218_.jpg",
+    "data_uuid": "00c7ac50-5b05-4d02-b142-8b8b661b73f3",
+    "authorLink": {}
+  },
+  {
+    "name": "NCERT Summary (Class 6 to 12) One Liner for UPSC/IAS Preparation, (Indian History, Art & Culture, World & Indian Geography, Environment, Ecology, Indian Polity & Economy Indian Constitution) 2024-2025 Updated Edition",
+    "discountedPrice": "₹258",
+    "price": "₹475",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zBzQ7mWEL._AC_UY218_.jpg",
+    "data_uuid": "99ce4ebe-29cb-4964-bf5a-c8e285fe1ba1",
+    "authorLink": {}
+  },
+  {
+    "discountedPrice": "₹4,399",
+    "price": "₹314.21",
+    "imageUrl": "https://m.media-amazon.com/images/I/71riQBQz+rL._AC_UL320_.jpg",
+    "data_uuid": "b1464a0e-8c66-425f-a3f0-3f668bfdaf47",
+    "authorLink": null
+  },
+  {
+    "discountedPrice": "₹4,399",
+    "price": "₹314.21",
+    "imageUrl": "https://m.media-amazon.com/images/I/71riQBQz+rL._AC_UL320_.jpg",
+    "data_uuid": "s-searchgrid-carousel:0",
+    "authorLink": null
+  },
+  {
+    "discountedPrice": "₹549",
+    "price": "₹899",
+    "imageUrl": "https://m.media-amazon.com/images/I/61yn+Z57LdL._AC_UL320_.jpg",
+    "data_uuid": "s-searchgrid-carousel:1",
+    "authorLink": null
+  },
+  {
+    "discountedPrice": "₹2,496",
+    "price": "₹312",
+    "imageUrl": "https://m.media-amazon.com/images/I/91-g6cdIRTL._AC_UL320_.jpg",
+    "data_uuid": "s-searchgrid-carousel:2",
+    "authorLink": null
+  },
+  {
+    "discountedPrice": "₹841",
+    "price": "₹979",
+    "imageUrl": "https://m.media-amazon.com/images/I/81CY2Y5Ua7L._AC_UL320_.jpg",
+    "data_uuid": "s-searchgrid-carousel:3",
+    "authorLink": null
+  },
+  {
+    "data_uuid": null,
+    "authorLink": null
+  },
+  {
+    "name": "OLD NCERT 3 BOOK COMBO - ANCIENT, MEDIVAL & MODERN INDIA - BOOKS FOR UPSC & CIVIL SERViCES",
+    "discountedPrice": "₹210",
+    "imageUrl": "https://m.media-amazon.com/images/I/812gxfZKUuL._AC_UY218_.jpg",
+    "data_uuid": "36198e2c-bd88-4ffb-869e-1987247d9bec",
+    "authorLink": null
+  },
+  {
+    "name": "International Relations for UPSC (English) | 1st Edition (Latest) | IR UPSC Competitive Exam | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹294",
+    "price": "₹395",
+    "imageUrl": "https://m.media-amazon.com/images/I/81HHHWKKzOL._AC_UY218_.jpg",
+    "data_uuid": "9285594f-8026-4ec5-b219-b25ce13911ac",
+    "authorLink": {}
   },
   {
     "name": "Ancient and Medieval India for UPSC (English) by Poonam Dalal Dahiya | 3rd Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹526",
-    "imageUrl": "https://m.media-amazon.com/images/I/81EZQi6YE5L._AC_UY218_.jpg"
-  },
-  {
-    "name": "OLD NCERT 3 BOOK COMBO - ANCIENT, MEDIVAL & MODERN INDIA - BOOKS FOR UPSC & CIVIL SERViCES",
-    "price": "₹210",
-    "imageUrl": "https://m.media-amazon.com/images/I/812gxfZKUuL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Arihant CSAT Brahmastra 2025 | Includes PYQs 2011-2024 | In Bilingual Version (English/Hindi) | Almost 80% Questions in CSAT 2024 Paper | Free Formula bank and NCERT Notes | By Dinesh Kaushik",
-    "price": "₹438",
-    "imageUrl": "https://m.media-amazon.com/images/I/811EGHTdnzL._AC_UY218_.jpg"
-  },
-  {
-    "name": "10000+ Objective General Studies Chapter-wise MCQs for Competitive Exams 6th Edition | Previous Year GS PYQs Question PYQs Bank with 100% Explanatory Notes | General Knowledge & Current Affairs",
-    "price": "₹597",
-    "imageUrl": "https://m.media-amazon.com/images/I/71NiCSE+K1L._AC_UY218_.jpg"
+    "discountedPrice": "₹526",
+    "price": "₹735",
+    "imageUrl": "https://m.media-amazon.com/images/I/81EZQi6YE5L._AC_UY218_.jpg",
+    "data_uuid": "246c0ae3-313f-4911-9c8e-5562a0a8f92a",
+    "authorLink": {}
   },
   {
     "name": "Oxford Student Atlas for India | 5th Edition | For UPSC and Competitive Exams | Latest Edition",
-    "price": "₹270",
-    "imageUrl": "https://m.media-amazon.com/images/I/71XEQI1VhOL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Indian Society for UPSC (English) | 1st Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹240",
-    "imageUrl": "https://m.media-amazon.com/images/I/81Lb5zVc65L._AC_UY218_.jpg"
-  },
-  {
-    "name": "Certificate Physical And Human Geography (English) | Best Seller For UPSC Aspirants And Other Competitive Examinations",
-    "price": "₹390",
-    "imageUrl": "https://m.media-amazon.com/images/I/912vU-UabHL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Comprehensive Coverage of Committees, Judgments, Reports & Policies for Civil Services Prelim & Main Exam | Improve your General Studies & Optional Answer Writing | UPSC & State PSC",
-    "price": "₹190",
-    "imageUrl": "https://m.media-amazon.com/images/I/617GeBF+jLL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Essays Demystified For UPSC CSE & Competitive Exams: A Comprehensive Guide to Essay Writing in UPSC Exam (Do's and Don'ts + Quotes and Dimensions for Essay Writing + Model Essays)",
-    "price": "₹224",
-    "imageUrl": "https://m.media-amazon.com/images/I/61TGFYJygiL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Indian Polity for UPSC (English) by M Laxmikanth | 7th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹809",
-    "imageUrl": "https://m.media-amazon.com/images/I/71CrTyKsazL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Indian Economy for UPSC (English) by Ramesh Singh | 16th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams | McGraw Hill edge Access: Summary of Union Budget & Economic Survey, Model Answers, Videos & Webinars",
-    "price": "₹499",
-    "imageUrl": "https://m.media-amazon.com/images/I/71cWM5eXLmL._AC_UY218_.jpg"
-  },
-  {
-    "name": "11 Year-wise UPSC Civil Services IAS Mains Essay Previous Year Solved Papers (2013 - 2023) 5th Edition | PYQs Question Bank | Philosophical Essays | Word Limit |",
-    "price": "₹157",
-    "imageUrl": "https://m.media-amazon.com/images/I/61v0u92ZamL._AC_UY218_.jpg"
-  },
-  {
-    "name": "A Journey through Indian Art & Culture for UPSC Civil Services and State Services Examinations",
-    "price": "₹739",
-    "imageUrl": "https://m.media-amazon.com/images/I/61Zix4J7dEL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Challenges to Internal Security of India for UPSC (English) by Ashok Kumar | 6th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams | McGraw Hill edge Access: Current Issues Videos & Current Affairs Articles",
-    "price": "₹292",
-    "imageUrl": "https://m.media-amazon.com/images/I/7198uSeLSwL._AC_UY218_.jpg"
-  },
-  {
-    "price": "₹200",
-    "imageUrl": "https://m.media-amazon.com/images/I/71-hoomdUAL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹200",
-    "imageUrl": "https://m.media-amazon.com/images/I/71-hoomdUAL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹190",
-    "imageUrl": "https://m.media-amazon.com/images/I/81UH8-P3uQL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹411",
-    "imageUrl": "https://m.media-amazon.com/images/I/81K4Xhi5NtL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹240",
-    "imageUrl": "https://m.media-amazon.com/images/I/81Lb5zVc65L._AC_UL320_.jpg"
-  },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {
-    "name": "Lakshya: A Compendium of General Studies For UPSC Civil Services and State Services Examinations 2025 , 2ed",
-    "price": "₹639.20",
-    "imageUrl": "https://m.media-amazon.com/images/I/81EcUkOwpXL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Modern Indian History + Principles & Fundamentals Of Indian Geography + Indian Polity + Indian Economy 5 Books (Latest Edition) | UPSC | Civil Services & State Administrative Exams | StudyIQ UPSC Book [Paperback] StudyIQ Publications [Paperback] StudyIQ Publications",
-    "price": "₹2,599",
-    "imageUrl": "https://m.media-amazon.com/images/I/71Q4lsRrMdL._AC_UY218_.jpg"
-  },
-  {
-    "name": "UPSC 2025 CSAT Theory and Practice Book, Third Edition, PYQs with Topic-wise Segregation 2011-2024",
-    "price": "₹349",
-    "imageUrl": "https://m.media-amazon.com/images/I/71IeBhwmKhL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Geography of India for UPSC (English) | 1st Edition | Civil Services Exam | State Administrative Exams | McGraw Hill Edge: Conceptual Videos, PYQs, Practice Questions, Mnemonics, Tips for Preparation",
-    "price": "₹430",
-    "imageUrl": "https://m.media-amazon.com/images/I/81w3RrG0ApL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Science and Technology for UPSC (English) by Ravi P Agrahari | 8th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹627",
-    "imageUrl": "https://m.media-amazon.com/images/I/81wdLyJ-egL._AC_UY218_.jpg"
-  },
-  {},
-  {},
-  {
-    "name": "A Brief History of Modern India | Spectrum | Rajiv Ahir | UPSC | Civil Services Exam | State Administrative Exams - 2024/Edition",
-    "price": "₹444",
-    "imageUrl": "https://m.media-amazon.com/images/I/91JwxfimrXL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Disha's Popular General Studies Compendium Series with NCERT (Class 6 to 12) coverage for UPSC & State PSC Civil Services Prelims & Mains 7th Edition (set of 7 Books) | IAS",
-    "price": "₹2,199",
-    "imageUrl": "https://m.media-amazon.com/images/I/81p+-EuFRdL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Master Answer Writing for UPSC Civil Services Main and State PSC Main Exams 2025 | UPSC Main - GS papers 1 to 4 Previous Years’ Solved Question Papers (2017, 2018, 2021-2023), Topper's Handwritten Notes & Techniques | McGraw Hill edge Access",
-    "price": "₹379",
-    "imageUrl": "https://m.media-amazon.com/images/I/81pCsSBSgML._AC_UY218_.jpg"
-  },
-  {
-    "name": "Challenges to Internal Security of India for UPSC (English) by Ashok Kumar | 6th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams | McGraw Hill edge Access: Current Issues Videos & Current Affairs Articles",
-    "price": "₹292",
-    "imageUrl": "https://m.media-amazon.com/images/I/7198uSeLSwL._AC_UY218_.jpg"
-  },
-  {
-    "name": "World History for UPSC (English)| 3rd Edition (Latest) | Civil Services Exam 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹270",
     "price": "₹425",
-    "imageUrl": "https://m.media-amazon.com/images/I/81EPcjUtwEL._AC_UY218_.jpg"
-  },
-  {
-    "name": "A Journey through Indian Art & Culture for UPSC Civil Services and State Services Examinations",
-    "price": "₹591.20",
-    "imageUrl": "https://m.media-amazon.com/images/I/81BHrldxnxL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Arihant Pulse IAS Mains Handwritten Notes Ethics , Integrity & Aptitude | Data & Facts | Case Studies |",
-    "price": "₹294",
-    "imageUrl": "https://m.media-amazon.com/images/I/71lBZXJK9KL._AC_UY218_.jpg"
-  },
-  {
-    "name": "PMF IAS Environment for UPSC 2024-25",
-    "price": "₹528",
-    "imageUrl": "https://m.media-amazon.com/images/I/81cu+sGJIoL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Indian Economy for UPSC (English) by Nitin Singhania | 5th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams | McGraw Hill edge Access: 2 Full length Mock Tests & Chapter-wise Practice Tests",
-    "price": "₹595",
-    "imageUrl": "https://m.media-amazon.com/images/I/81WTQ5GHh3L._AC_UY218_.jpg"
-  },
-  {
-    "name": "Arihant 30 Years UPSC Prelims Civil Services Exam 2025 | IAS Prelims Chapterwise -Topicwise questions | General Studies Paper - 1 | CSAT Paper - 2 | PYQs Previous Year Questions (2024 - 1995) | for Exam 2025 (English)",
-    "price": "₹475",
-    "imageUrl": "https://m.media-amazon.com/images/I/71-407xW6hL._AC_UY218_.jpg"
-  },
-  {
-    "name": "The Secret Code of UPSC Toppers",
-    "price": "₹169",
-    "imageUrl": "https://m.media-amazon.com/images/I/61D+mcTtQKL._AC_UY218_.jpg"
-  },
-  {
-    "name": "PMF IAS Modern Indian History for UPSC 2025-26",
-    "price": "₹473.07",
-    "imageUrl": "https://m.media-amazon.com/images/I/714Q1IAvloL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Important Judgments that transformed India for UPSC (English) | 2nd Edition (Latest) | Law | Civil Services Exam 2025 | State PSCs civil services exams/PCS exams",
-    "price": "₹355",
-    "imageUrl": "https://m.media-amazon.com/images/I/8150KdWdo8L._AC_UY218_.jpg"
-  },
-  {
-    "name": "Combo (set of 4 Books) IAS Aniruddh Yadav Hand-written Notes with Toppers Shortcuts/ Tricks for UPSC & State PSC Civil Services Prelims & Mains General Studies Papers 1 - 4",
-    "price": "₹1,220",
-    "imageUrl": "https://m.media-amazon.com/images/I/814WI0p5xnL._AC_UY218_.jpg"
-  },
-  {
-    "name": "UPSC Prelims Previous Year Solved Question Papers | Topic-Wise | Papers 1 & 2 (1995 - 2024) | 30 Years",
-    "price": "₹429",
-    "imageUrl": "https://m.media-amazon.com/images/I/81rd930g1GL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Governance in India Book For UPSC CSE 2023 (1st Edition) by Study IQ | Governance in India Book UPSC Latest Edition",
-    "price": "₹449",
-    "imageUrl": "https://m.media-amazon.com/images/I/61rKzXS4aiL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Concise CSAT General Studies Paper 2 for UPSC Civil Services Prelims 2025 | 7 Edition | GS Paper 2 Manual | Solved Previous Years’ Questions | Model Question Papers",
-    "price": "₹391",
-    "imageUrl": "https://m.media-amazon.com/images/I/51O4pYNAR-L._AC_UY218_.jpg"
-  },
-  {
-    "name": "The Time Machine",
-    "price": "₹119",
-    "imageUrl": "https://m.media-amazon.com/images/I/71+n2VSAiXS._AC_UL640_QL65_.jpg"
-  },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {
-    "name": "Oswaal NCERT Textbook Solutions Class 11 | Physics | Chemistry | Biology | Set of 3 Books | For Latest Exam",
-    "price": "₹756",
-    "imageUrl": "https://m.media-amazon.com/images/I/71DedvSZlKL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Oswaal NCERT Textbook Solutions Class 11 | Physics | Chemistry | Mathematics | Set Of 3 Books | For Latest Exam",
-    "price": "₹765",
-    "imageUrl": "https://m.media-amazon.com/images/I/71AithOO6CL._AC_UY218_.jpg"
-  },
-  {
-    "name": "OLD NCERT 3 BOOK COMBO - ANCIENT, MEDIVAL & MODERN INDIA - BOOKS FOR UPSC & CIVIL SERViCES",
-    "price": "₹210",
-    "imageUrl": "https://m.media-amazon.com/images/I/812gxfZKUuL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Disha's Popular General Studies Compendium Series with NCERT (Class 6 to 12) coverage for UPSC & State PSC Civil Services Prelims & Mains 7th Edition (set of 7 Books) | IAS",
-    "price": "₹2,199",
-    "imageUrl": "https://m.media-amazon.com/images/I/81p+-EuFRdL._AC_UY218_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71XEQI1VhOL._AC_UY218_.jpg",
+    "data_uuid": "3e4806ca-3eae-46f7-8b6a-4041e6ee45a5",
+    "authorLink": {}
   },
   {
     "name": "Oswaal NCERT One for All Book For UPSC and State PSCs History, Geography, General Science, Indian Polity and Indian Economy (Set of 5 Books) (Old and New NCERT Edition) (For 2024 Exam)",
-    "price": "₹2,287",
-    "imageUrl": "https://m.media-amazon.com/images/I/81-vqp6410L._AC_UY218_.jpg"
+    "discountedPrice": "₹2,287",
+    "price": "₹457.40",
+    "imageUrl": "https://m.media-amazon.com/images/I/81-vqp6410L._AC_UY218_.jpg",
+    "data_uuid": "1fb631f8-9e99-4ff4-8dbf-33fb3ba2779d",
+    "authorLink": {}
   },
   {
-    "price": "₹164",
-    "imageUrl": "https://m.media-amazon.com/images/I/51wxYkb7mAL._AC_UL320_.jpg"
+    "name": "Combo (set of 4 Books) IAS Aniruddh Yadav Hand-written Notes with Toppers Shortcuts/ Tricks for UPSC & State PSC Civil Services Prelims & Mains General Studies Papers 1 - 4",
+    "discountedPrice": "₹1,220",
+    "price": "₹305",
+    "imageUrl": "https://m.media-amazon.com/images/I/814WI0p5xnL._AC_UY218_.jpg",
+    "data_uuid": "d084c4bc-5720-41c5-a009-7ec214d1a6f5",
+    "authorLink": {}
   },
   {
-    "price": "₹164",
-    "imageUrl": "https://m.media-amazon.com/images/I/51wxYkb7mAL._AC_UL320_.jpg"
+    "name": "Developments in Science and Technology | UPSC | Civil Services Exam | State Administrative Exams - 2024 / Edition",
+    "discountedPrice": "₹513",
+    "price": "₹685",
+    "imageUrl": "https://m.media-amazon.com/images/I/91NProZVRHL._AC_UY218_.jpg",
+    "data_uuid": "2a291dbe-d074-45c1-b237-b6c7244361a1",
+    "authorLink": null
   },
   {
-    "price": "₹219",
-    "imageUrl": "https://m.media-amazon.com/images/I/51c9RI6mgoL._AC_UL320_.jpg"
+    "name": "Indian Polity for UPSC (English) by M Laxmikanth | 7th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹809",
+    "price": "₹1,090",
+    "imageUrl": "https://m.media-amazon.com/images/I/71CrTyKsazL._AC_UL640_QL65_.jpg",
+    "data_uuid": "bf227687-9170-4353-80b4-32650bdddcbc",
+    "authorLink": null
   },
   {
-    "price": "₹235",
-    "imageUrl": "https://m.media-amazon.com/images/I/51v-g+A6fxL._AC_UL320_.jpg"
+    "data_uuid": null,
+    "authorLink": null
   },
   {
-    "price": "₹396",
-    "imageUrl": "https://m.media-amazon.com/images/I/71ca0Ejt0-L._AC_UL320_.jpg"
+    "name": "Indian Polity for UPSC (English) by M Laxmikanth | 7th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹809",
+    "price": "₹1,090",
+    "imageUrl": "https://m.media-amazon.com/images/I/71CrTyKsazL._AC_UY218_.jpg",
+    "data_uuid": "1b1eff5f-64d1-4336-9d6d-d534519c63e5",
+    "authorLink": {}
   },
   {
-    "price": "₹201",
-    "imageUrl": "https://m.media-amazon.com/images/I/61lLzEm6aVL._AC_UL320_.jpg"
-  },
-  {},
-  {
-    "name": "NCERT Summary (Class 6 to 12) One Liner for UPSC/IAS Preparation, (Indian History, Art & Culture, World & Indian Geography, Environment, Ecology, Indian Polity & Economy Indian Constitution) 2024-2025 Updated Edition",
-    "price": "₹258",
-    "imageUrl": "https://m.media-amazon.com/images/I/71zBzQ7mWEL._AC_UY218_.jpg"
+    "name": "29 Previous Years UPSC Civil Services IAS Prelims Topic-wise Solved Papers 1 & 2 (1995 - 2023) 14th Edition | General Studies & Aptitude (CSAT) PYQs Question Bank |",
+    "discountedPrice": "₹501",
+    "price": "₹790",
+    "imageUrl": "https://m.media-amazon.com/images/I/71pjWcEt7+L._AC_UY218_.jpg",
+    "data_uuid": "81cb5c33-57b9-4947-bb2e-3e5d4b25263e",
+    "authorLink": {}
   },
   {
-    "name": "NCERT , CLASS - 6 TO 12 BOOK SET ( HISTORY, GEOGRAPHY , POLITICAL SCIENCE , ECONOMICS ) UPSC 2022 EDITION Paperback – 1 January 2022",
-    "price": "₹2,189",
-    "imageUrl": "https://m.media-amazon.com/images/I/613-1Spn4CL._AC_UY218_.jpg"
+    "name": "Comprehensive Coverage of Committees, Judgments, Reports & Policies for Civil Services Prelim & Main Exam | Improve your General Studies & Optional Answer Writing | UPSC & State PSC",
+    "discountedPrice": "₹190",
+    "imageUrl": "https://m.media-amazon.com/images/I/617GeBF+jLL._AC_UY218_.jpg",
+    "data_uuid": "983a76b2-3bf9-44f9-9fc7-ec22f3eda5ea",
+    "authorLink": null
   },
   {
-    "name": "Political Science Book Set For Class 6 To 12 NCERT (9 Books ) English Medium polity civics [Paperback] SHRESTH BOOK SHOP",
-    "price": "₹637",
-    "imageUrl": "https://m.media-amazon.com/images/I/718mYVhC1vL._AC_UY218_.jpg"
+    "name": "Indian Economy for UPSC (English) by Ramesh Singh | 16th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams | McGraw Hill edge Access: Summary of Union Budget & Economic Survey, Model Answers, Videos & Webinars",
+    "discountedPrice": "₹471",
+    "price": "₹650",
+    "imageUrl": "https://m.media-amazon.com/images/I/71cWM5eXLmL._AC_UY218_.jpg",
+    "data_uuid": "a9111023-384b-47b6-9389-aae0d8845ad5",
+    "authorLink": {}
   },
   {
-    "name": "NCERT Textbook Geography Books 6th to 12th (1 Combo Set)",
-    "price": "₹645",
-    "imageUrl": "https://m.media-amazon.com/images/I/91NYoHzU9vS._AC_UY218_.jpg"
+    "name": "Certificate Physical And Human Geography (English) | Best Seller For UPSC Aspirants And Other Competitive Examinations",
+    "discountedPrice": "₹390",
+    "imageUrl": "https://m.media-amazon.com/images/I/912vU-UabHL._AC_UY218_.jpg",
+    "data_uuid": "52e4d6fc-aeab-46b8-ba72-90b7c1b83d5a",
+    "authorLink": null
   },
   {
-    "name": "NCERT textbooks for Class XI Physics I & II, Chemistry I & II and Biology (Set of 5 Books)",
-    "price": "₹590",
-    "imageUrl": "https://m.media-amazon.com/images/I/71m578WPinL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Full Marks Hindi CBSE Support Book Class 7 | NCERT Solutions | Question Bank | Reference Books | Help Books | Chapterwise Solutions | NCERT Textual Questions | Study Material | Practice Material",
-    "price": "₹199",
-    "imageUrl": "https://m.media-amazon.com/images/I/51xsBJ4EuPL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Full Marks Mathematics CBSE Support Book Class 8 | NCERT Solutions | Question Bank | Reference Books | Help Books | Chapterwise Solutions | NCERT Textual Questions | Study Material | Practice Material",
-    "price": "₹164",
-    "imageUrl": "https://m.media-amazon.com/images/I/51wxYkb7mAL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Golden Science Based on NEW NCERT Curiosity For Class 6 | For CBSE 2025 Exams |Summary | Solved NCERT Textual Questions | Sample Question Papers | Includes Objective Type Question Bank | MCQs",
-    "price": "₹215",
-    "imageUrl": "https://m.media-amazon.com/images/I/71OcNiCjkfL._AC_UL640_QL65_.jpg"
-  },
-  {},
-  {
-    "name": "Science Textbook For Class 10 NCERT Based Latest New Syllabus With Shri Mad Bhagwad Gita Free",
-    "price": "₹210",
-    "imageUrl": "https://m.media-amazon.com/images/I/517W9NSMu+L._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT | CHEMISTRY | CLASS 12 PART 1 & 2 | ENGLISH MEDIUM | 2023 | COMBO OF 2 BOOKS SET |",
-    "price": "₹201",
-    "imageUrl": "https://m.media-amazon.com/images/I/61lTcTzsTDL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Based General Studies One Liner 25000+",
-    "price": "₹355",
-    "imageUrl": "https://m.media-amazon.com/images/I/71En64F6wkL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Text Books Ciass 10 Maths",
-    "price": "₹160",
-    "imageUrl": "https://m.media-amazon.com/images/I/51E2xnsbFSL._AC_UY218_.jpg"
-  },
-  {
-    "name": "3 OLD NCERT HISTORY BOOKS (1) Ancient India- RS Sharma (Class-11) (2) Medieval India - Satish Chandra (Class-11) (3) Modern India - Bipin Chandra (Class-12)",
-    "price": "₹199",
-    "imageUrl": "https://m.media-amazon.com/images/I/81008CdaXqL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Mathematics Textbook For Class 8-852",
-    "price": "₹45.50",
-    "imageUrl": "https://m.media-amazon.com/images/I/51WmZuQbsOL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT History Class 6 to 12 History Text Books Set COMBO Of 9 Books Set- English Medium [Paperback] SHRESTH BOOK SHOP",
-    "price": "₹635",
-    "imageUrl": "https://m.media-amazon.com/images/I/81XYnR+kyoL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Science Book Set Class 6 to Class 10 (Binded NCERT)",
-    "price": "₹540",
-    "imageUrl": "https://m.media-amazon.com/images/I/514MuUxLNrL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Full Marks English CBSE Support Book Class 8 | NCERT Solutions | Question Bank | Reference Books | Help Books | Chapterwise Solutions | NCERT Textual Questions | Study Material | Practice Material",
-    "price": "₹269",
-    "imageUrl": "https://m.media-amazon.com/images/I/51V4-LjYJSL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Oswaal One For All Question Banks NCERT & CBSE Class 7 (Set of 4 Books) Maths, Science, Social Science, And English (For Latest Exam)",
-    "price": "₹1,574",
-    "imageUrl": "https://m.media-amazon.com/images/I/61jKLphTsuL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Arthashastra By Kautilya - A Masterpiece On Economic Policies | Ancient Indian Political Philosophy | Hindu Spiritual Wisdom | Timeless Teachings | Practical Guidance [Paperback]",
-    "price": "₹229",
-    "imageUrl": "https://m.media-amazon.com/images/I/71FF0AsDa+L._AC_UL640_QL65_.jpg"
-  },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {
-    "name": "Oswaal NCERT Textbook Solutions | Class 8 Science For Latest Exam",
-    "price": "₹199",
-    "imageUrl": "https://m.media-amazon.com/images/I/81fjwgYqSOL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Full Marks Mathematics CBSE Support Book Class 7 | NCERT Solutions | Question Bank | Reference Books | Help Books | Chapterwise Solutions | NCERT Textual Questions | Study Material | Practice Material",
-    "price": "₹200",
-    "imageUrl": "https://m.media-amazon.com/images/I/51Mes9m2aHL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Textbooks in English for class 12 - Flamingo and Vistas - 12074 &12075",
-    "price": "₹115",
-    "imageUrl": "https://m.media-amazon.com/images/I/41bVvUwz0VL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Books Useful for UPSC Exam By Khan Sir Patna Combo Set of 5 Books (Hindi Medium) (Combo_NCERT_H)",
+    "name": "Geography of India for UPSC (English) | 1st Edition | Civil Services Exam | State Administrative Exams | McGraw Hill Edge: Conceptual Videos, PYQs, Practice Questions, Mnemonics, Tips for Preparation",
+    "discountedPrice": "₹450",
     "price": "₹599",
-    "imageUrl": "https://m.media-amazon.com/images/I/71k43hLnd8L._AC_UY218_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/81w3RrG0ApL._AC_UY218_.jpg",
+    "data_uuid": "fc3939be-8f97-463e-b9a2-0b7346860458",
+    "authorLink": null
   },
   {
-    "name": "NCERT , CLASS - 11 SET OF 5 BOOKS ( PHYSICS PART 1 & 2 , CHEMISTRY PART 1 & 2 , MATHEMATICS ) 2022 EDITION",
-    "price": "₹885",
-    "imageUrl": "https://m.media-amazon.com/images/I/81AdMI1nsPL._AC_UY218_.jpg"
-  },
-  {},
-  {},
-  {
-    "name": "NCERT | CLASS 11 + 12 | PCB | COMBO OF 10 BOOKS SET | ENGLISH MEDIUM |",
-    "price": "₹800",
-    "imageUrl": "https://m.media-amazon.com/images/I/81QJv3Mk0jL._AC_UY218_.jpg"
+    "name": "A Brief History of Modern India | Spectrum | Rajiv Ahir | UPSC | Civil Services Exam | State Administrative Exams - 2024/Edition",
+    "discountedPrice": "₹444",
+    "price": "₹595",
+    "imageUrl": "https://m.media-amazon.com/images/I/91JwxfimrXL._AC_UY218_.jpg",
+    "data_uuid": "7d57681f-cce7-4627-bebb-43e7c26642c9",
+    "authorLink": {}
   },
   {
-    "name": "CLASS 6 EXPLORING SOCIETY INDIA AND BEYOND SOCIAL SCIENCE 0681 CLASS 6 NCERT 2024 EDITION",
-    "price": "₹65",
-    "imageUrl": "https://m.media-amazon.com/images/I/51-bl3eme0L._AC_UY218_.jpg"
+    "name": "Sarrthi IAS Decode Essay | For UPSC CSE and State PCS Exams | (24-050)",
+    "discountedPrice": "₹340",
+    "price": "₹395",
+    "imageUrl": "https://m.media-amazon.com/images/I/71wFP4WSG5L._AC_UY218_.jpg",
+    "data_uuid": "b41e032a-edf2-4da6-a68d-b6de4feed794",
+    "authorLink": null
   },
   {
-    "name": "Ncert History Books Set From Class-6 to Class-8 (English Medium) Set of 3 Books by Ncert",
-    "price": "₹195",
-    "imageUrl": "https://m.media-amazon.com/images/I/71FCtvol9hL._AC_UY218_.jpg"
+    "name": "Vigyan Evam Prodhyogiki | Developments in Science and Technology | Hindi Edition | UPSC | Civil Services Exam | State Administrative Exams - 2024 /edition",
+    "discountedPrice": "₹490",
+    "price": "₹655",
+    "imageUrl": "https://m.media-amazon.com/images/I/91U9MhhojxL._AC_UY218_.jpg",
+    "data_uuid": "428e6ca7-1853-445b-b19c-69bcf4631a1f",
+    "authorLink": null
   },
   {
-    "name": "NCERT Economic – Textbook in English Medium for Class – 9th latest edition with binding",
-    "price": "₹65",
-    "imageUrl": "https://m.media-amazon.com/images/I/51OUNLT6ewS._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Notes General Science | Flow Charts | Tables | Tamil Nadu & NIOS Board | for UPSC | UPPSC | BPSC | JPSC | MPPSC | One Liner for UPSC/IAS Preparation | State Civil Services & other Competitive Exams (Class 6 +12 Old + New)",
-    "price": "₹209",
-    "imageUrl": "https://m.media-amazon.com/images/I/71XQ6QBmM1L._AC_UY218_.jpg"
-  },
-  {
-    "name": "Oswaal NCERT Textbook Solution - Class 8 Mathematics | For Latest Exam",
-    "price": "₹199",
-    "imageUrl": "https://m.media-amazon.com/images/I/81887oYAMmL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Full Marks Social Science CBSE Support Book Class 6 | NCERT Solutions | Question Bank | Reference Books | Help Books | Chapterwise Solutions | NCERT Textual Questions | Study Material",
-    "price": "₹204",
-    "imageUrl": "https://m.media-amazon.com/images/I/51XoNBRlWPL._AC_UY218_.jpg"
-  },
-  {
-    "price": "₹204",
-    "imageUrl": "https://m.media-amazon.com/images/I/51XoNBRlWPL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹204",
-    "imageUrl": "https://m.media-amazon.com/images/I/51XoNBRlWPL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹200",
-    "imageUrl": "https://m.media-amazon.com/images/I/51Mes9m2aHL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹175",
-    "imageUrl": "https://m.media-amazon.com/images/I/61R1MXsTxIL._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹901",
-    "imageUrl": "https://m.media-amazon.com/images/I/81KygoECY8L._AC_UL320_.jpg"
-  },
-  {
-    "price": "₹520",
-    "imageUrl": "https://m.media-amazon.com/images/I/71Jh9v80loL._AC_UL320_.jpg"
-  },
-  {},
-  {
-    "name": "NCERT Contemprary India - Geography for Class 9 - latest edition NCERT/CBSE with binding",
-    "price": "₹70",
-    "imageUrl": "https://m.media-amazon.com/images/I/41nGdF4aaEL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Notes Bhartiye Itihas | Flow Charts | Tables | Tamil Nadu & NIOS Board | for UPSC | UPPSC | BPSC | JPSC | MPPSC | One Liner for UPSC/IAS Preparation | State Civil Services & other Competitive Exams (Class 6 +12 Old + New)",
-    "price": "₹191",
-    "imageUrl": "https://m.media-amazon.com/images/I/71ZSXyG5nCL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Special Combo Offer NCERT-GCERT Descriptive Book (Part1 + Part 2 + Part 3) | Gujarati | 1st Edition 2024",
-    "price": "₹1,099",
-    "imageUrl": "https://m.media-amazon.com/images/I/71qTZch1ZjL._AC_UY218_.jpg"
-  },
-  {
-    "name": "UPSC Prelims and Mains NCERT Objective Studies Kit for UPSC, State PSCs (MCQ with Answers] (Set of 5 Books in Hindi)",
-    "price": "₹599",
-    "imageUrl": "https://m.media-amazon.com/images/I/91FbRm8gmaL._AC_UY218_.jpg"
-  },
-  {
-    "name": "~ NCERT Books for Class 6 Science Latest Edition as per NCERT/CBSE ~ 00957",
-    "price": "₹70",
-    "imageUrl": "https://m.media-amazon.com/images/I/51nre43cHkL._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Notes Indian History | Flow Charts | Tables | Tamil Nadu & NIOS Board | for UPSC | UPPSC | BPSC | JPSC | MPPSC | One Liner for UPSC/IAS Preparation | State Civil Services & other Competitive Exams (Class 6 +12 Old + New)",
-    "price": "₹200",
-    "imageUrl": "https://m.media-amazon.com/images/I/71zohC3FXeL._AC_UY218_.jpg"
-  },
-  {
-    "name": "MTG Objective NCERT at your FINGERTIPS Physics Chemistry & Biology (Set of 3 Books) - NCERT NEET/JEE Trend Indicator Notes with HD Pages Exam Archive & MCQs | NEET-JEE Books (Based on NCERT Latest Pat",
-    "price": "₹1,659",
-    "imageUrl": "https://m.media-amazon.com/images/I/811NTkHlO8L._AC_UY218_.jpg"
-  },
-  {
-    "name": "NCERT Class 6 Textbook For Mathematics (Ganita Prakash) Latest Edition 2024-25",
-    "price": "₹135",
-    "imageUrl": "https://m.media-amazon.com/images/I/41rjY2SlsIL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Oswaal One For All Question Banks NCERT & CBSE Class 7 (Set of 4 Books) Maths Science Social Science And English (For Latest Exam)",
-    "price": "₹1,572",
-    "imageUrl": "https://m.media-amazon.com/images/I/41FXWLl9aVL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Full Marks Mathematics CBSE Support Book Class 6 | NCERT Solutions | Question Bank | Reference Books | Help Books | Chapterwise Solutions | NCERT Textual Questions | Study Material | Practice Material",
-    "price": "₹175",
-    "imageUrl": "https://m.media-amazon.com/images/I/61R1MXsTxIL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Golden English Language and Literature : Based on NEW NCERT Beehive and Moments for Class - 9 (For 2025 Final Exams, includes Objective Type Question Bank)",
-    "price": "₹376",
-    "imageUrl": "https://m.media-amazon.com/images/I/711hWj9rjBL._AC_UL640_QL65_.jpg"
-  },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {
-    "name": "MPPSC General Studies (Prelims & Mains) Latest Edition Exam Preparation Study Material Guide in English Medium 13 Books",
-    "price": "₹3,989",
-    "imageUrl": "https://m.media-amazon.com/images/I/51flRr4c2VL._AC_UY218_.jpg"
-  },
-  {
-    "name": "MPPSC General Studies Books For Prelims & Mains Madhya Pradesh Public Service Commission Exam Preparation Set of 13 Books in Hindi Latest Edition",
-    "price": "₹4,464",
-    "imageUrl": "https://m.media-amazon.com/images/I/51CXN4-JXWL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Madhya Pradesh General Knowledge 2025 | 6th Edition | MP Special | MP GK | MPPSC | MPPCS",
-    "price": "₹380",
-    "imageUrl": "https://m.media-amazon.com/images/I/81RHcDDMlsL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Madhya Pradesh Parikshadham 2024 ( MP GK 2024) 4th Edition Book in Hindi for All Mppsc Exams and Other All Mp Exams 2024-25",
-    "price": "₹389",
-    "imageUrl": "https://m.media-amazon.com/images/I/61kJ1-e1tbL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Errorless 18 Previous Years Madhya Pradesh MPPSC General Studies Prelims Year-wise Solved Papers 1 ( 2023 - 2002) & 2 (2023 - 19) 4th Edition",
-    "price": "₹256",
-    "imageUrl": "https://m.media-amazon.com/images/I/81g4gWi5mcL._AC_UY218_.jpg"
-  },
-  {
-    "name": "MPPSC प्रश्नलोक (4000+ प्रश्नों का समागम ) | MPPSC Prelims| MPPSC other Exam(Part A)| MPESB||MP GK| MPPSC|MPPCS|MPSSE |MPSESE | MPSFSE by Pavan Choudhary",
-    "price": "₹380",
-    "imageUrl": "https://m.media-amazon.com/images/I/61KI7FePtyL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Madhya Pradesh General Knowledge for MPPSC, MP SSC & other Competitive Exams | PYQs Previous Year Questions | State Public Service Commission | General Studies |",
-    "price": "₹212",
-    "imageUrl": "https://m.media-amazon.com/images/I/71MPHTjkQIL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Punekar Vastunishth Madhya Pradesh Samanya Gyan 2024-25 (Objective MP GK 2024-25) Book in Hindi for Mppsc Prelims & Mains and All MP Exams",
-    "price": "₹499",
-    "imageUrl": "https://m.media-amazon.com/images/I/81rF7CykqRL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Shivaan MPPSC Prashnlok English| MPPSC Prelims| MPPSC other Exam(Part A)| MPESB||MP GK| MPPSC|MPPCS|MPSSE |MPSESE | MPSFSE by Pavan Choudhary",
-    "price": "₹380",
-    "imageUrl": "https://m.media-amazon.com/images/I/613qb4LOKLL._AC_UY218_.jpg"
-  },
-  {
-    "name": "2nd Edition 2024 Unit-9 Parikshadham, Suchna Evam Sanchar Prodyogiki ( Information And Communication Technology) Unit-9, ICT Book in hindi 2024 for MPPSC prelims & Other All MPPSC Exams",
-    "price": "₹152",
-    "imageUrl": "https://m.media-amazon.com/images/I/61D2Kvq4F0L._AC_UY218_.jpg"
-  },
-  {
-    "name": "Mera Madhya Pradesh, Vol1",
-    "price": "₹325",
-    "imageUrl": "https://m.media-amazon.com/images/I/81y4a9k1sHL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Madhya Pradesh General Knowledge 2025 | 6th Edition | MP Special | MP GK | MPPSC | MPPCS",
-    "price": "₹380",
-    "imageUrl": "https://m.media-amazon.com/images/I/81RHcDDMlsL._AC_UY218_.jpg"
-  },
-  {
-    "name": "MPPSC General Studies (Prelims & Mains) Latest Edition Exam Preparation Study Material Guide in English Medium 13 Books",
-    "price": "₹3,989",
-    "imageUrl": "https://m.media-amazon.com/images/I/51flRr4c2VL._AC_UY218_.jpg"
-  },
-  {
-    "name": "Arihant MPPSC General Studies & Aptitude Test | Chapterwise Solved Papers | Paper 1 (2023-2003) & Paper 2 (2023-2012) | Detailed Explanations of all Questions | Master Strategy & Trend Analysis | 3000+ Questions with Solutions | Free 2 Online Mock Tests (Know Your AIR)",
-    "price": "₹355",
-    "imageUrl": "https://m.media-amazon.com/images/I/81LqViCLU7L._AC_UY218_.jpg"
-  },
-  {
-    "name": "Shivaan's MPPSC Prelims Rapid Fire Volume II (Complete Syllabus of Unit 5,6,7,9 and 10) by Pavan Choudhary and Priyanka Bhatt",
+    "name": "Arihant Pulse IAS Mains Handwritten Notes Ethics , Integrity & Aptitude | Data & Facts | Case Studies |",
+    "discountedPrice": "₹294",
     "price": "₹400",
-    "imageUrl": "https://m.media-amazon.com/images/I/61nw0u8CefL._AC_UY218_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71lBZXJK9KL._AC_UY218_.jpg",
+    "data_uuid": "d8bce862-ab54-43e2-94d9-ca21c00f0589",
+    "authorLink": null
   },
   {
-    "name": "MPPSC General Studies Books For Prelims & Mains Madhya Pradesh Public Service Commission Exam Preparation Set of 13 Books in Hindi Latest Edition",
-    "price": "₹4,464",
-    "imageUrl": "https://m.media-amazon.com/images/I/51CXN4-JXWL._AC_UY218_.jpg"
+    "name": "World History - Collection of 6 Books : Knowledge Encyclopedia For Children (Box Set)",
+    "discountedPrice": "₹699",
+    "price": "₹1,099",
+    "imageUrl": "https://m.media-amazon.com/images/I/71JUOvUtLXL._AC_UL640_QL65_.jpg",
+    "data_uuid": "0969e673-5f0b-4e2e-90e8-7c29b704f162",
+    "authorLink": null
   },
   {
-    "name": "Madhya Pradesh General Knowledge (MP GK) 2023-24 Book in English for Mppsc and All Mp Exams Latest Edition",
-    "price": "₹379",
-    "imageUrl": "https://m.media-amazon.com/images/I/71kW-1w9iEL._AC_UY218_.jpg"
+    "data_uuid": "d1a9630b-519c-4404-831c-678eed2e6c89",
+    "authorLink": null
   },
   {
-    "name": "Darpan MPPSC Mains Paper 3 Part B Unit 1 to 5 Vighyan, Takniki, Jan Swasthya evam Paryavaran Book 2024 in Hindi for MPPSC Pre & Mains Exams 2024-25",
-    "price": "₹571",
-    "imageUrl": "https://m.media-amazon.com/images/I/71zrTGBhWFL._AC_UY218_.jpg"
+    "data_uuid": null,
+    "authorLink": null
   },
   {
-    "name": "MPPSC Prelims Series Book-I: History, Culture & Literature of Madh",
-    "price": "₹381",
-    "imageUrl": "https://m.media-amazon.com/images/I/517TxtJ+B2L._AC_UY218_.jpg"
+    "data_uuid": "9506f42d-b483-4ea6-95de-edc46ab681f8",
+    "authorLink": null
   },
   {
-    "name": "Nirman IAS unit 4 Madhya Pradesh Ka Bhugol mppsc pre 1st Edition 2024 1200+ MCQ QUESTION 1200+ MCQ QUESTION new syllabus",
-    "price": "₹202",
-    "imageUrl": "https://m.media-amazon.com/images/I/612CEhNqMbL._AC_UY218_.jpg"
+    "data_uuid": null,
+    "authorLink": null
   },
   {
-    "name": "TOPPERSNOTES MPPSC Books For Prelims Madhya Pradesh Public Service Commission Set of 8 books in Hindi Latest Edition Exam Preparation [Paperback] TOPPERSNOTES [Paperback] TOPPERSNOTES",
-    "price": "₹3,181",
-    "imageUrl": "https://m.media-amazon.com/images/I/71tQJOUiEAL._AC_UY218_.jpg"
+    "data_uuid": "f8de9315-6385-48a1-b8ca-31a7aa508795",
+    "authorLink": null
   },
   {
-    "name": "MPPSC Books For Prelims Madhya Pradesh Public Service Commission Set of 8 books in English For Exam Preparation Latest Edition",
-    "price": "₹3,099",
-    "imageUrl": "https://m.media-amazon.com/images/I/61Fd9DJDGJL._AC_UY218_.jpg"
+    "data_uuid": "b45a7bba-94d2-4861-8876-74ad2db68d18",
+    "authorLink": null
   },
   {
-    "name": "QOKZEK Magic Practice Copybook, (4 BOOK + 1 PEN + 10 REFILL) Number Tracing Book for Pre-schoolers with Magic Pen, Magic calligraphy bookset for kids Reusable Writing Tool (SIZE- 19*13 cm)",
-    "price": "₹277",
-    "imageUrl": "https://m.media-amazon.com/images/I/51a-cDlyiiL._AC_UL640_QL65_.jpg"
-  },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {
-    "name": "Madhya Pradesh Samanya Gyan (MP GK Book) 2023 in Hindi | Useful for MPPSC, MPPEB, MPSI, MP Police, MP Patwari and All State Exams",
-    "price": "₹235",
-    "imageUrl": "https://m.media-amazon.com/images/I/814dVap5saL._AC_UY218_.jpg"
+    "data_uuid": null,
+    "authorLink": null
   },
   {
-    "name": "Arihant MPPSC General Studies & Aptitude Test Hindi | Chapterwise Solved Papers | Paper 1 (2023-2000) & Paper 2 (2023-2012) | Sectionwise Arrangement of Questions | Accurate Explanation of all Questions with Latest Data | 3000+ Questions with Solutions | Free 2 Online Mock Tests (Know Your AIR)",
-    "price": "₹345",
-    "imageUrl": "https://m.media-amazon.com/images/I/81YnkoHHiwL._AC_UY218_.jpg"
+    "name": "Arihant CSAT Brahmastra 2025 | Includes PYQs 2011-2024 | In Bilingual Version (English/Hindi) | Almost 80% Questions in CSAT 2024 Paper | Free Formula bank and NCERT Notes | By Dinesh Kaushik",
+    "discountedPrice": "₹438",
+    "price": "₹695",
+    "imageUrl": "https://m.media-amazon.com/images/I/811EGHTdnzL._AC_UY218_.jpg",
+    "data_uuid": "1344c469-7426-4ae2-92b8-8e188ad67e6d",
+    "authorLink": null
   },
   {
-    "name": "4th Edition Nirman ias Information and communication Technology Mppsc prelims 2024 unit -9 SANJAY GUPTA",
-    "price": "₹197",
-    "imageUrl": "https://m.media-amazon.com/images/I/71OqfgyzOQL._AC_UY218_.jpg"
+    "name": "Lakshya: A Compendium of General Studies For UPSC Civil Services and State Services Examinations 2025 , 2ed",
+    "discountedPrice": "₹639.20",
+    "imageUrl": "https://m.media-amazon.com/images/I/81EcUkOwpXL._AC_UY218_.jpg",
+    "data_uuid": "bb1f6cc3-d5bf-45c4-a394-edcef6b7c4d7",
+    "authorLink": {}
   },
   {
-    "name": "Punekar Mppsc unit -10 , 2024 New Syllabus Madhya Pradesh ki Janjatiyan, Virasat, Lok sanskriti, lok sahitya Book in Hindi for Mppsc Pre Exams",
-    "price": "₹121",
-    "imageUrl": "https://m.media-amazon.com/images/I/71UkeHPIliL._AC_UY218_.jpg"
+    "name": "Indian Society for UPSC (English) | 1st Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹240",
+    "price": "₹315",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Lb5zVc65L._AC_UY218_.jpg",
+    "data_uuid": "f341e29b-d968-4609-9e0f-e9219867654a",
+    "authorLink": {}
   },
   {
-    "name": "3rd Edition Parikshadham MP GK Objective (Vastunish) 2024 | Book in Hindi for Mppsc Pre & Mains and All Mp Exams 2024-25 by Praveen Sahu",
-    "price": "₹287",
-    "imageUrl": "https://m.media-amazon.com/images/I/61PtYaVjweL._AC_UY218_.jpg"
-  },
-  {},
-  {},
-  {
-    "name": "Darpan Publication Mppsc Mains Unsolved Papers Hindi and English PYQ's 1989 to 2023 , Paper 1 to 6 Topic wise Question According New Syllabus book for Mppsc Mains Exams 2024-25",
-    "price": "₹174",
-    "imageUrl": "https://m.media-amazon.com/images/I/71RB9U+GaVL._AC_UY218_.jpg"
+    "name": "Challenges to Internal Security of India for UPSC (English) by Ashok Kumar | 6th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams | McGraw Hill edge Access: Current Issues Videos & Current Affairs Articles",
+    "discountedPrice": "₹292",
+    "price": "₹370",
+    "imageUrl": "https://m.media-amazon.com/images/I/7198uSeLSwL._AC_UY218_.jpg",
+    "data_uuid": "1960a6a7-9e6c-4c00-8f83-e054d4ec758f",
+    "authorLink": {}
   },
   {
-    "name": "Nirman IAS Geography of Madhya Pradesh mppsc pre 2024 unit-4 1200+ MCQ QUESTION new syllabus Sanjay Gupta",
-    "price": "₹187",
-    "imageUrl": "https://m.media-amazon.com/images/I/51EkXAMpKyL._AC_UY218_.jpg"
+    "name": "Essays Demystified For UPSC CSE & Competitive Exams: A Comprehensive Guide to Essay Writing in UPSC Exam (Do's and Don'ts + Quotes and Dimensions for Essay Writing + Model Essays)",
+    "discountedPrice": "₹224",
+    "price": "₹350",
+    "imageUrl": "https://m.media-amazon.com/images/I/61TGFYJygiL._AC_UY218_.jpg",
+    "data_uuid": "a7065084-7bc8-404b-b06e-0ab306782981",
+    "authorLink": {}
   },
   {
-    "name": "Madhya Pradesh General Knowledge 2024-25 (MP GK ) Book in English for Mppsc prelims & Mains , Upsc, Banking and Other All Mp Exams 2024-25",
-    "price": "₹199",
-    "imageUrl": "https://m.media-amazon.com/images/I/813M2qvBkVL._AC_UY218_.jpg"
+    "data_uuid": null,
+    "authorLink": null
   },
   {
-    "name": "4 Year-wise Madhya Pradesh Civil Services MPPSC Mains Previous Year Solved Papers (2023 - 2020) for General Studies Papers 1 to 4, General Hindi & Hindi Essay",
-    "price": "₹238",
-    "imageUrl": "https://m.media-amazon.com/images/I/61wCsgeyoWL._AC_UY218_.jpg"
+    "data_uuid": null,
+    "authorLink": null
   },
   {
-    "name": "Shivaan's MPPSC Prelims Rapid Fire Volume 1 (Unit 1 to Unit 5)| English by Pavan Choudhary",
-    "price": "₹410",
-    "imageUrl": "https://m.media-amazon.com/images/I/61YUqRjeYnL._AC_UY218_.jpg"
+    "name": "PMF IAS Environment for UPSC 2024-25",
+    "discountedPrice": "₹528",
+    "price": "₹599",
+    "imageUrl": "https://m.media-amazon.com/images/I/81cu+sGJIoL._AC_UY218_.jpg",
+    "data_uuid": "6232cd66-a1c3-4a19-94b4-3f668858fc6e",
+    "authorLink": {}
   },
   {
-    "name": "MPPSC Solved Papers (2003 2020 Year Wise MPSC Exam)",
-    "price": "₹265",
-    "imageUrl": "https://m.media-amazon.com/images/I/91VqreWBYqL._AC_UY218_.jpg"
+    "name": "Indian Economy for UPSC (English) by Nitin Singhania | 5th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams | McGraw Hill edge Access: 2 Full length Mock Tests & Chapter-wise Practice Tests",
+    "discountedPrice": "₹595",
+    "price": "₹825",
+    "imageUrl": "https://m.media-amazon.com/images/I/81WTQ5GHh3L._AC_UY218_.jpg",
+    "data_uuid": "9ab2586b-ac28-41f6-826a-c1db666dcb30",
+    "authorLink": {}
   },
   {
-    "name": "Mppsc Madhya Pradesh Lok Seva Aayog Samanya Adhyayan Prarambhik Pariksha Paper-I Practice Sets",
-    "price": "₹150",
-    "imageUrl": "https://m.media-amazon.com/images/I/7144Nh5hEIL._AC_UY218_.jpg"
+    "name": "Important Judgments that transformed India for UPSC (English) | 2nd Edition (Latest) | Law | Civil Services Exam 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹355",
+    "imageUrl": "https://m.media-amazon.com/images/I/8150KdWdo8L._AC_UY218_.jpg",
+    "data_uuid": "cb5c6a37-7fbf-4d5a-b3fc-c95851ed7af3",
+    "authorLink": {}
   },
   {
-    "name": "MPPSC MSS 1 History And Culture",
-    "price": "₹240",
-    "imageUrl": "https://m.media-amazon.com/images/I/71VZ3djZCvL._AC_UY218_.jpg"
+    "name": "Science and Technology for UPSC (English) by Ravi P Agrahari | 8th Edition (Latest) | Civil Services Exam- Prelims and Mains 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹627",
+    "price": "₹825",
+    "imageUrl": "https://m.media-amazon.com/images/I/81wdLyJ-egL._AC_UY218_.jpg",
+    "data_uuid": "34c5bf51-7ec1-4274-874c-35f9c433cb38",
+    "authorLink": {}
   },
   {
-    "name": "Madhya Pradesh General Knowledge (MP GK) 2023-24 Book in hindi for Mppsc and All Mp Exams Latest Edition",
-    "price": "₹399",
-    "imageUrl": "https://m.media-amazon.com/images/I/71pjGY2Q47L._AC_UY218_.jpg"
+    "name": "Certificate Physical and Human Geography 2nd Edition | Best Suited for UPSC Aspirants",
+    "discountedPrice": "₹307",
+    "price": "₹360",
+    "imageUrl": "https://m.media-amazon.com/images/I/6184so7ifHL._AC_UY218_.jpg",
+    "data_uuid": "14c68c36-4726-43e2-85db-68243b978545",
+    "authorLink": null
   },
   {
-    "name": "Madhya Pradesh Parikshadham 2024 MP GK 4th Edition Book in Hindi for All Mppsc Exams and Other All Mp Exams 2024-25",
-    "price": "₹290",
-    "imageUrl": "https://m.media-amazon.com/images/I/716uXftPWuL._AC_UY218_.jpg"
+    "name": "Amblitz UPSC Blank Practice Answer Sheet (A4, 200 Pages)",
+    "discountedPrice": "₹150",
+    "price": "₹175",
+    "imageUrl": "https://m.media-amazon.com/images/I/519r2lBB4WL._AC_UY218_.jpg",
+    "data_uuid": "dae543dc-de9f-4375-9be7-ef91466fb001",
+    "authorLink": null
   },
   {
-    "name": "MPPSC MSS 5 Arthshastra",
-    "price": "₹247",
-    "imageUrl": "https://m.media-amazon.com/images/I/61MlI4MlofL._AC_UY218_.jpg"
+    "name": "Oswaal UPSC CSE Mains 12 Years Solved Papers (2013-2024) General Studies For Civil Services Exams 2025",
+    "discountedPrice": "₹899",
+    "imageUrl": "https://m.media-amazon.com/images/I/81A4P-g8JrL._AC_UY218_.jpg",
+    "data_uuid": "0402b9f5-5586-41bd-a7bd-77fddefa545d",
+    "authorLink": {}
   },
   {
-    "name": "3rd Edition 2024 Vastunisth Madhya Pradesh Parikshadham , MCQ with Detailed Analysis, ( Objective MP GK ) Book in Hindi for Mppsc Pre & Mains and All Mp Exams 2024-25",
-    "price": "₹309",
-    "imageUrl": "https://m.media-amazon.com/images/I/61gzhjblRmL._AC_UY218_.jpg"
+    "name": "Master Answer Writing for UPSC Civil Services Main and State PSC Main Exams 2025 | UPSC Main - GS papers 1 to 4 Previous Years’ Solved Question Papers (2017, 2018, 2021-2023), Topper's Handwritten Notes & Techniques | McGraw Hill edge Access",
+    "discountedPrice": "₹379",
+    "price": "₹525",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pCsSBSgML._AC_UY218_.jpg",
+    "data_uuid": "9838a3d9-9968-496e-b86a-4efea23d121c",
+    "authorLink": {}
   },
   {
-    "name": "Nirman IAS Madhya Pradesh ki Sanvaidhanik Vyavastha, Unit-5 MPPSC prelims 2024, 730+ MCQ QUESTION 1200+ MCQ QUESTION new syllabus",
-    "price": "₹142",
-    "imageUrl": "https://m.media-amazon.com/images/I/51E4jabRw1L._AC_UY218_.jpg"
+    "name": "11 Year-wise UPSC Civil Services IAS Mains Essay Previous Year Solved Papers (2013 - 2023) 5th Edition | PYQs Question Bank | Philosophical Essays | Word Limit |",
+    "discountedPrice": "₹157",
+    "price": "₹225",
+    "imageUrl": "https://m.media-amazon.com/images/I/61v0u92ZamL._AC_UY218_.jpg",
+    "data_uuid": "71c9c071-a920-41a7-b39c-11fa62f201fa",
+    "authorLink": {}
   },
   {
-    "name": "मध्यप्रदेश की जनजातियाँ Madhya Pradesh Ki Janjatiya Unit 10 | Virasat, Lok Sanskriti, Lok Sahitya for MPPSC Prelims & Mains Exams 2024 - S Chand's Exam Book Latest Edition",
-    "price": "₹188",
-    "imageUrl": "https://m.media-amazon.com/images/I/81bm45uyqrL._AC_UY218_.jpg"
+    "name": "UPSC 2025 CSAT Theory and Practice Book, Third Edition, PYQs with Topic-wise Segregation 2011-2024",
+    "discountedPrice": "₹349",
+    "price": "₹3.49",
+    "imageUrl": "https://m.media-amazon.com/images/I/71IeBhwmKhL._AC_UY218_.jpg",
+    "data_uuid": "fd6d16fd-2cdd-4978-ae3a-071a65aab61d",
+    "authorLink": {}
   },
   {
-    "name": "3rd Edition 2024 syllabus, Parikshadham Unit-7 , Vighyan evam Paryavaran (Science and Technology/ Environment) Mppsc Prilims Unit-7, Book in hindi for mppsc prelims Exams & Others All MP Exams",
-    "price": "₹141",
-    "imageUrl": "https://m.media-amazon.com/images/I/71HVEKxpjWL._AC_UY218_.jpg"
+    "name": "World History for UPSC (English)| 3rd Edition (Latest) | Civil Services Exam 2025 | State PSCs civil services exams/PCS exams",
+    "discountedPrice": "₹425",
+    "price": "₹525",
+    "imageUrl": "https://m.media-amazon.com/images/I/81EPcjUtwEL._AC_UY218_.jpg",
+    "data_uuid": "fef5368a-a0e9-4f9c-aeb5-44244b1ed9b0",
+    "authorLink": {}
   },
   {
-    "name": "QOKZEK Magic Practice Copybook, (4 BOOK + 1 PEN + 10 REFILL) Number Tracing Book for Pre-schoolers with Magic Pen, Magic calligraphy bookset for kids Reusable Writing Tool (SIZE- 19*13 cm)",
-    "price": "₹277",
-    "imageUrl": "https://m.media-amazon.com/images/I/51a-cDlyiiL._AC_UL640_QL65_.jpg"
+    "name": "Disha's Popular General Studies Compendium Series with NCERT (Class 6 to 12) coverage for UPSC & State PSC Civil Services Prelims & Mains 7th Edition (set of 7 Books) | IAS",
+    "discountedPrice": "₹2,199",
+    "price": "₹2,940",
+    "imageUrl": "https://m.media-amazon.com/images/I/81p+-EuFRdL._AC_UY218_.jpg",
+    "data_uuid": "d19046ef-59b7-4f73-9fee-4b795f56d2fa",
+    "authorLink": {}
   },
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+    "name": "The Secret Code of UPSC Toppers",
+    "discountedPrice": "₹169",
+    "price": "₹249",
+    "imageUrl": "https://m.media-amazon.com/images/I/61D+mcTtQKL._AC_UY218_.jpg",
+    "data_uuid": "65b3e4e8-c2db-48d3-8887-dad95be312e2",
+    "authorLink": {}
+  },
+  {
+    "name": "Combo (set of 4 Books) IAS Aniruddh Yadav Hand-written Notes with Toppers Shortcuts/ Tricks for UPSC & State PSC Civil Services Prelims & Mains General Studies Papers 1 - 4",
+    "discountedPrice": "₹1,220",
+    "price": "₹305",
+    "imageUrl": "https://m.media-amazon.com/images/I/814WI0p5xnL._AC_UY218_.jpg",
+    "data_uuid": "c8ab7110-dc4f-428e-9682-1ce53352b51c",
+    "authorLink": {}
+  },
+  {
+    "name": "UPSC Prelims Previous Year Solved Question Papers | Topic-Wise | Papers 1 & 2 (1995 - 2024) | 30 Years",
+    "discountedPrice": "₹429",
+    "imageUrl": "https://m.media-amazon.com/images/I/81rd930g1GL._AC_UY218_.jpg",
+    "data_uuid": "414cde31-9d2e-4f80-bcc4-4db5037c41fd",
+    "authorLink": {}
+  },
+  {
+    "name": "INDIANS",
+    "discountedPrice": "₹995",
+    "price": "₹1,795",
+    "imageUrl": "https://m.media-amazon.com/images/I/61jUTnn+EfL._AC_UY218_.jpg",
+    "data_uuid": "7fd643c1-9c9c-4c59-aefe-e8601c5fba37",
+    "authorLink": null
+  },
+  {
+    "name": "The Constitution of India (Deluxe Hardbound Edition) (Latest and Updated)",
+    "discountedPrice": "₹369",
+    "price": "₹599",
+    "imageUrl": "https://m.media-amazon.com/images/I/71EV4wxBX3L._AC_UY218_.jpg",
+    "data_uuid": "3f8efbb9-b10a-499c-a12a-12d83007603c",
+    "authorLink": null
+  },
+  {
+    "name": "The Adventure Classics Collection (Set of 4 Books)",
+    "discountedPrice": "₹599",
+    "price": "₹899",
+    "imageUrl": "https://m.media-amazon.com/images/I/61qgWtcyN1L._AC_UL640_QL65_.jpg",
+    "data_uuid": "7b8101d0-2793-4878-b281-cfdbad554810",
+    "authorLink": null
+  },
+  {
+    "data_uuid": "c4e21ffd-cfb8-40e9-960c-f64d55db6430",
+    "authorLink": null
+  },
+  {
+    "data_uuid": null,
+    "authorLink": null
+  },
+  {
+    "data_uuid": "8ee0bb2e-5074-4c46-b7e2-f0ea11f1aa56",
+    "authorLink": null
+  },
+  {
+    "data_uuid": null,
+    "authorLink": null
+  },
+  {
+    "data_uuid": "87e1c8da-f202-49e5-a595-39a425de0364",
+    "authorLink": null
+  }
 ]
