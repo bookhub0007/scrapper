@@ -35,30 +35,23 @@ const PAGES = 2;
           return Array.from(
             document.querySelectorAll('[data-cel-widget^="search_result_"]')
           ).map((product) => {
-            const container = product.querySelector(
-              "div.a-row.a-size-base.a-color-secondary"
-            );
-
-            console.log({ container });
+            let name =  product.querySelector("h2 .a-size-medium")?.innerText
+            let author = "";
+            try {
+              author = product.querySelectorAll(".a-size-base")[0].innerText;
+            } catch (error) {
+              author = "Unavalaible";
+            }
             
-            const nestedDiv = container
-              ? container.querySelector("div.a-row")
-              : null;
-            const authorLink = nestedDiv
-              ? nestedDiv.querySelector(
-                  "a.a-size-base.a-link-normal.s-underline-text.s-underline-link-text.s-link-style"
-                )
-              : null;
-
             return {
-              name: product.querySelector("h2 .a-size-medium")?.innerText,
+              name,
               discountedPrice: product.querySelector(".a-price .a-offscreen")
                 ?.innerText,
               price: product.querySelector(".a-text-price .a-offscreen")
                 ?.innerText,
               imageUrl: product.querySelector(".s-image")?.src,
               data_uuid: product.getAttribute("data-uuid"),
-              authorLink,
+              author,
             };
           });
         });
