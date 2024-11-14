@@ -35,16 +35,20 @@ const PAGES = 2;
           return Array.from(
             document.querySelectorAll('[data-cel-widget^="search_result_"]')
           ).map((product) => {
-            let name =  product.querySelector("h2 .a-size-medium")?.innerText
-            let author = "";
+            let author_date = "";
+            let author = "Unavalaible";
+            let date = "";
             try {
-              author = product.querySelectorAll(".a-size-base")[0].innerText;
+              author_date = product.querySelectorAll(".a-size-base")[0].innerText;
+              let split = author_date.split("|");
+              author = split[0].trim().substring(2);
+              date = split[1].trim()
             } catch (error) {
-              author = "Unavalaible";
+              console.log(error);
             }
             
             return {
-              name,
+              name:product.querySelector("h2 .a-size-medium")?.innerText,
               discountedPrice: product.querySelector(".a-price .a-offscreen")
                 ?.innerText,
               price: product.querySelector(".a-text-price .a-offscreen")
@@ -52,6 +56,7 @@ const PAGES = 2;
               imageUrl: product.querySelector(".s-image")?.src,
               data_uuid: product.getAttribute("data-uuid"),
               author,
+              publicationDate:date
             };
           });
         });
